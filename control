@@ -1,0 +1,9 @@
+Package: nerosir
+Name: patchQQSign
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: nerosir
+Author: nerosir
+Section: Tweaks

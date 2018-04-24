@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Mode = Any;
+		Executables = (
+			QQ,
+		);
+	};
+}
